@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-
+# simple form simplifies the way of creating forms but we need to customize our css sheets
+# Use other gems similar to simple form if you want default css 
 gem 'simple_form'
 gem 'foreman'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
